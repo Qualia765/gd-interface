@@ -9,6 +9,8 @@ This bothered me enough to create this - which lets you:
 - define interfaces
 - then get error (without even running the game) to see what you need to fix to correctly implement the give interface.
 
+(DEMO Video)[https://youtu.be/43r1F9vf4NQ]
+
 # How to add to your project
 1. place the `plugin.cfg`, the `plugin.gd`, and the `qinterface.gd` in a folder in the godot project (recomeneded `res://addons/qinterface/`)
 2. Project > Project Settings > Plugins > QInterface > Enabled
